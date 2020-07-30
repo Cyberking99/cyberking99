@@ -8,8 +8,8 @@ Skills: ***HTML / CSS / JS / jQuery / PHP / SQL / Python / Dragon***
 🌱 I’m currently learning Flutter 
 
 📫 How to reach me:
-  🐦 @itzkingkc
-  📧 kefasiceking@gmail.com 
+  ### 🐦 @itzkingkc
+  ### 📧 kefasiceking@gmail.com 
 
 🔭 I’m currently working on this page. 
 
