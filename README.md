@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a **Software Engineer** with **6+ years** of experience building production-grade software and decentralized applications. I'm passionate about blockchain infrastructure, systems programming, and contributing to open source.
+I am a **Software Engineer** with **6+ years** of experience building production-grade software and decentralized applications. I am passionate about blockchain infrastructure, systems programming, and contributing to open source.
 
 - 🏢 &nbsp;Building at **[@blockfuselabs](https://github.com/blockfuselabs)** & **[@geanlabs](https://github.com/geanlabs)**
 - 🌍 &nbsp;Based in **Jos, Nigeria**
@@ -39,9 +39,11 @@ I'm a **Software Engineer** with **6+ years** of experience building production-
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 **Blockchain & Web3**
 
@@ -130,12 +132,12 @@ Implementation of an optimistic rollup for Layer 2 scaling solutions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Cyberking99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberking99&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="GitHub Streak" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Cyberking99&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=86400" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=Cyberking99&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="49%" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberking99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Cyberking99&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=86400" width="40%" alt="Top Languages" />
 
 </div>
 
@@ -145,7 +147,7 @@ Implementation of an optimistic rollup for Layer 2 scaling solutions.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cyberking99&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-tawny.vercel.app/?username=Cyberking99&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
